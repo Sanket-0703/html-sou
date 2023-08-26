@@ -1,0 +1,104 @@
+html{
+    background-color: #eb8484;
+}
+
+
+#_0{
+    
+    position: relative;
+    left: 400px;
+    top: 280px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    
+}
+
+#main{
+    margin-left: 50px;
+    transform: rotate(-20deg);
+}
+
+#_1{
+    position: relative;
+    left: 160px;
+    bottom: 150px;
+}
+
+#_2{
+    position: relative;
+    left: 1050px;
+    bottom:350px ;
+}
+
+#_3{
+    position: relative;
+    bottom: 300px;
+    left: 160px;
+}
+
+#_4
+{
+    position: relative;
+    left: 1050px;
+    bottom:510px ;
+}
+
+#_5{
+    position: relative;
+    left: 160px;
+    bottom: 450px;
+}
+#_6{
+    position: relative;
+    bottom: 1200px;
+    left: 460px;
+
+}
+
+#_7{
+    position: relative;
+    bottom: 1400px;
+    left: 750px;
+
+}
+
+#_8{
+    position: relative;
+    bottom: 1100px;
+    left: 460px;
+}
+
+#_9{
+    position: relative;
+    bottom: 1300px;
+    left: 750px;
+}
+#_10{
+    position: relative;
+    left: 1050px;
+    bottom: 1480px;
+}
+
+#_11{
+    height: 600px;
+    width: 410px;
+    position: relative;
+    left: 450px;
+}
+#_12{
+    height: 600px;
+    width:400px ;
+    position: relative;
+    bottom: 400px;
+    left: 480px;
+}
+
+
+
+   
+    
+
+
